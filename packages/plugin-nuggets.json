@@ -1,0 +1,33 @@
+{
+  "name": "@elizaos/plugin-nuggets",
+  "description": "Nuggets Identity & Payment Plugin",
+  "repository": {
+    "type": "git",
+    "url": "github:amlord/plugin-nuggets"
+  },
+  "maintainers": [
+    {
+      "name": "amlord",
+      "github": "amlord"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin"
+  ],
+  "versions": [
+    {
+      "version": "1.0.0-beta.34",
+      "gitBranch": "1.0.0-beta.34",
+      "gitTag": "v1.0.0-beta.34",
+      "runtimeVersion": "1.0.0-beta.34",
+      "releaseDate": "2025-04-30T08:59:32.680Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": null,
+  "latestVersion": "1.0.0-beta.34",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
