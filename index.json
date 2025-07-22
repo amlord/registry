@@ -105,7 +105,6 @@
   "__v2": {
     "version": "2.0.0",
     "packages": {
-    "@elizaos/plugin-nuggets": "github:amlord/plugin-nuggets",
       "@elizaos/plugin-starter": "packages/plugin-starter.json"
     },
     "categories": {},
@@ -115,6 +114,7 @@
       ],
       "project": [],
       "module": []
+    "@nuggetslife/plugin-nuggets": "github:amlord/plugin-nuggets",
     }
   }
 }
