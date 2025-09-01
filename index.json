@@ -102,6 +102,7 @@
   "@elizaos-plugins/plugin-viction": "github:BuildOnViction/plugin-viction",
   "@elizaos-plugins/plugin-grix": "github:grixprotocol/plugin-grix",
   "@elizaos-plugins/plugin-zapper": "github:ben-dh3/plugin-zapper",
+    "@nuggetslife/plugin-nuggets": "github:amlord/plugin-nuggets",
   "__v2": {
     "version": "2.0.0",
     "packages": {
@@ -114,7 +115,6 @@
       ],
       "project": [],
       "module": []
-    "@nuggetslife/plugin-nuggets": "github:amlord/plugin-nuggets",
     }
   }
 }
